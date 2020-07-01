@@ -1,0 +1,19 @@
+{
+  "name": "curso_fs_js_mod1",
+  "version": "1.0.0",
+  "description": "proyecto inicial del curso fullstack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoLarrea/curso_fs_js_mod1.git"
+  },
+  "author": "Emiliano Larrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilianoLarrea/curso_fs_js_mod1/issues"
+  },
+  "homepage": "https://github.com/emilianoLarrea/curso_fs_js_mod1#readme"
+}
